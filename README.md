@@ -11,6 +11,10 @@
 * Php için postgresql eklentisini kurun ve etkinleştirin
 * index.php içindeki veritabanı bağlantı bilgilerini kendi veritabanınıza göre değiştirin
 
+```shell
+systemctl status ssh
+```
+
 
 '''php
   $host = '127.0.0.1';
