@@ -15,10 +15,8 @@
   $host = '127.0.0.1';
   $dbname = 'DatabaseName';
   $user = 'UserName';
-  $pass = 'Password';```
-
-
-
+  $pass = 'Password';
+```
 
 
 https://github.com/atalhatabak/SqlDatabaseView/assets/56918326/061f5b7c-1c35-4d84-abd3-68c927ecb201
